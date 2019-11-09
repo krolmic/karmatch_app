@@ -27,6 +27,7 @@ dependencies:
   google_sign_in: ^4.0.11
   provider: ^3.1.0+1
   cloud_firestore: ^0.12.10
+  flutter_tindercard: ^0.1.8
 
 dev_dependencies:
   flutter_test:
@@ -50,6 +51,11 @@ flutter:
   #  - images/a_dot_ham.jpeg
   assets:
     - assets/go-logo.png
+    - assets/images/adam-stefanca-hdMSxGizchk-unsplash.jpg
+    - assets/images/dhiva-krishna-GRV4ypBKgxE-unsplash.jpg
+    - assets/images/eduardo-flores-xpcUYaZtplI-unsplash.jpg
+    - assets/images/joey-banks-YApiWyp0lqo-unsplash.jpg
+    - assets/images/lance-asper-N9Pf2J656aQ-unsplash.jpg
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware.
