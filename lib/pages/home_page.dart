@@ -3,6 +3,10 @@ import 'dart:developer';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 import 'package:flutter/services.dart';
+import 'package:provider/provider.dart';
+import 'package:flutter_tindercard/flutter_tindercard.dart';
+import 'package:cloud_firestore/cloud_firestore.dart';
+
 
 import '../models/user.dart';
 import '../providers/authentication_service.dart';
