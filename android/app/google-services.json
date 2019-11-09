@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "269093104718",
+    "firebase_url": "https://karmatch-72ca5.firebaseio.com",
+    "project_id": "karmatch-72ca5",
+    "storage_bucket": "karmatch-72ca5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:269093104718:android:e9d623427769de6431271f",
+        "android_client_info": {
+          "package_name": "com.example.karmatch_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "269093104718-mvr823rb9cb5o0ut8uamnigv9ej0j79v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.karmatch_app",
+            "certificate_hash": "8b14c7c3a952d127e307ca964f289926be434708"
+          }
+        },
+        {
+          "client_id": "269093104718-j0ee4v368l1jpoobcuoolep0tun407dl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmWh3JKMHe0SsxbjWg4ZG17_3SyXGwZ4c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "269093104718-j0ee4v368l1jpoobcuoolep0tun407dl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
